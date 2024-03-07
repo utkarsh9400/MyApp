@@ -1,5 +1,4 @@
 MyApp
-Takeda Insight Center
 
 Home Page:
 The home page displays a list of products.
