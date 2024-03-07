@@ -1,0 +1,34 @@
+.box{
+    width: 22%;
+}
+
+.main_body{
+    flex-wrap: wrap;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px
+}
+
+.s1 {
+    font-size: 13px;
+    color: gray;
+}
+
+.s2 {
+    float: inline-end;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.rating{
+    font-size: 10px;
+}
+
+.cart{
+    font-size: 25px;
+}
+
+

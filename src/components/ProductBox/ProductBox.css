@@ -1,0 +1,12 @@
+.image_div{
+    width: 60%;
+    height:40px;
+    background-color: white;
+    position: relative;
+    top: -40px;
+}
+
+.product_detail{
+    position: relative;
+    top: -40px;
+}

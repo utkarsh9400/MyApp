@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 0px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .logo{
+    height: 60px;
+    width: 55px;
+  }
+
+  .left ul {
+    padding-left: 24px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .left li {
+    margin-right: 24px;
+  }
+    
+  
+ 
+  
